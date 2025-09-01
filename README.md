@@ -29,4 +29,9 @@ This clearly shows how digital signatures prevent unauthorized changes to transa
 ### 1. Installation
 This script requires the `cryptography` library. Install it using pip:
 ```bash
+
 pip install cryptography
+
+## OUTPUT
+<img width="929" height="437" alt="Screenshot 2025-09-01 191514" src="https://github.com/user-attachments/assets/decbd7a8-3f80-4451-97b4-8acbd492ea6e" />
+
