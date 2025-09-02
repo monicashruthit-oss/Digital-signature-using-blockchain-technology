@@ -24,16 +24,6 @@ The script performs a full workflow:
 
 This clearly shows how digital signatures prevent unauthorized changes to transactions on the blockchain.
 
-## How to Run
-
-### 1. Installation
-This script requires the `cryptography` library. Install it using pip:
-```bash
-
-pip install cryptography
-
 ## OUTPUT
 
 <img width="929" height="437" alt="Screenshot 2025-09-01 191514" src="https://github.com/user-attachments/assets/a237b2a1-3858-4e00-9cf4-7a306235a7ef" />
-
-
